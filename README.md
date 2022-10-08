@@ -3,31 +3,28 @@ Create a website for CPU scheduling algorithms (FCFS, Priority Scheduling(non pr
 
 # CPU Scheduling Algorithms
 
+![image](https://user-images.githubusercontent.com/61316762/194719922-ebee52a7-7f67-4276-8894-b318c520ccae.png)
+
 ## FCFS 
 
-![FCFS](
+![image](https://user-images.githubusercontent.com/61316762/194719932-5d06790e-778b-4a45-a7e1-c41291903adc.png)
 
-![FCFS](
+![image](https://user-images.githubusercontent.com/61316762/194719940-e7a94525-64d4-447c-a923-2bb1064ca4f4.png)
+
 
 ## Priority Scheduling (Non Preemptive)
 
-![Priority Scheduling (Non Preemptive)](
-
-![Priority Scheduling (Non Preemptive)](
+![image](https://user-images.githubusercontent.com/61316762/194719945-d864dc35-f57c-4be4-b1f4-0db20080079c.png)
 
 
 ## Priority Scheduling (Preemptive)
-
-![Priority Scheduling (Preemptive)](
-
-![Priority Scheduling (Preemptive)](
 
 ## How to run
 
 1. Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/sauravhathi/cpu-scheduling-algorithms.git
 ```
 
 2. Open index.html in your browser
@@ -40,4 +37,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/sauravhathi/cpu-scheduling-algorithms/blob/main/LICENSE)
