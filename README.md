@@ -40,10 +40,9 @@ O(n)
 
 ## FCFS 
 
-![image](https://user-images.githubusercontent.com/61316762/194719932-5d06790e-778b-4a45-a7e1-c41291903adc.png)
+![image](https://user-images.githubusercontent.com/61316762/198582313-048c3e81-248a-46d4-aeb3-a7064c536401.png)
 
-![image](https://user-images.githubusercontent.com/61316762/194719940-e7a94525-64d4-447c-a923-2bb1064ca4f4.png)
-
+![image](https://user-images.githubusercontent.com/61316762/198582372-ba0bf03b-07cc-49a0-be56-1b8fee4a206e.png)
 
 ## Priority Scheduling (Non Preemptive)
 
