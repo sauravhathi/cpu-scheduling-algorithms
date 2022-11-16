@@ -2,6 +2,7 @@ Create a website for CPU scheduling algorithms (FCFS, Priority Scheduling(non pr
 
 
 # CPU Scheduling Algorithms
+### https://sauravhathi.github.io/cpu-scheduling-algorithms/
 
 e.g. FCFS
 
